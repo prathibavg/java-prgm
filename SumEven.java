@@ -1,5 +1,6 @@
 public class SumEven {
     public static void main(String[] args) {
+        System.out.println("main method");
         // int a=1;
         // int sum=0;
         // while(a<=10){
